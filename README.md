@@ -1,4 +1,4 @@
-# CoustomerChurn
+# CustomerChurn
 Customer churn is a term used when a customer decides to stop using the services of the
 business. Businesses do customer churn analysis all the time because it can help them to
 figure out which customers are about to leave.
